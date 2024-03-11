@@ -1,8 +1,30 @@
-# React + Vite
+# Nike product-end website with TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a focused project-end website using TailwindCSS. Using Nike brand as an example for good-looking result.
 
-Currently, two official plugins are available:
+The project has developed using ReactJS with Vite and TailwindCSS for styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In terms of Linter and Formatter, I've used esLint with standard rules and prettier respectively.
+
+## Main Scripts:
+
+  *Installing required dependecencies*
+  ~~~
+    npm i
+  ~~~
+  
+  *Developing mode*
+  ~~~
+    npm run dev
+  ~~~
+
+  *Linter*
+  ~~~
+    npm run lint
+  ~~~
+
+  *Build*
+  ~~~
+    npm run build
+  ~~~
+  
