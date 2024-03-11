@@ -1,6 +1,6 @@
 function CustomerReviews () {
   return (
-    <div>CustomerReviews</div>
+    <section>CustomerReviews</section>
   )
 }
 
